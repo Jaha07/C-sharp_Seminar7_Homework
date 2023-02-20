@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Homework\Seminar7\Tasl2\bin\Debug\net6.0\Tasl2.exe
+C:\Users\user\Desktop\Homework\Seminar7\Tasl2\bin\Debug\net6.0\Tasl2.deps.json
+C:\Users\user\Desktop\Homework\Seminar7\Tasl2\bin\Debug\net6.0\Tasl2.runtimeconfig.json
+C:\Users\user\Desktop\Homework\Seminar7\Tasl2\bin\Debug\net6.0\Tasl2.dll
+C:\Users\user\Desktop\Homework\Seminar7\Tasl2\bin\Debug\net6.0\Tasl2.pdb
+C:\Users\user\Desktop\Homework\Seminar7\Tasl2\obj\Debug\net6.0\Tasl2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Homework\Seminar7\Tasl2\obj\Debug\net6.0\Tasl2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Homework\Seminar7\Tasl2\obj\Debug\net6.0\Tasl2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Homework\Seminar7\Tasl2\obj\Debug\net6.0\Tasl2.AssemblyInfo.cs
+C:\Users\user\Desktop\Homework\Seminar7\Tasl2\obj\Debug\net6.0\Tasl2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Homework\Seminar7\Tasl2\obj\Debug\net6.0\Tasl2.dll
+C:\Users\user\Desktop\Homework\Seminar7\Tasl2\obj\Debug\net6.0\refint\Tasl2.dll
+C:\Users\user\Desktop\Homework\Seminar7\Tasl2\obj\Debug\net6.0\Tasl2.pdb
+C:\Users\user\Desktop\Homework\Seminar7\Tasl2\obj\Debug\net6.0\Tasl2.genruntimeconfig.cache
+C:\Users\user\Desktop\Homework\Seminar7\Tasl2\obj\Debug\net6.0\ref\Tasl2.dll
